@@ -1,13 +1,18 @@
 .about-container {
     min-height: 10vh;
     margin: 0 10vw 0 10vw;
+    color: azure;
     .title {
-
+        font-size: 22px;
+        line-height: 25px;
+        margin-bottom: 2vh;
     }
     .info {
-
+        font-size: 18px;
+        margin-bottom: 2vh;
     }
     .changes {
-
+        font-size:16px;
+        margin-bottom: 2vh;
     } 
 }

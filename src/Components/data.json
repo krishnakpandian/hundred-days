@@ -3,7 +3,13 @@
         {
             "date": "August 9, 2020",
             "challenge": "Starting 100 Days of Code Challenge",
-            "description": "I will be starting my 100 days of code today and for day 1 and most of week 1, I will be setting up the react App to get this ready",
+            "description": "I will be starting my 100 days of code today and for day 1 and most of week 1, I will be setting up the react App to get this ready, Links to all commits will be here ",
+            "link": "https://github.com/krishnakpandian/hundred-days/commit/0e2271e062e0d8bdfa99d401c079a6318054a614"
+        },
+        {
+            "date": "August 10, 2020",
+            "challenge": "Get the Design of this Site Working",
+            "description": "Today I will be working with ReactJS, HTML, CSS, to get most of the starter material working for this challenge",
             "link": ""
         }
     ]

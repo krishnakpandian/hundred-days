@@ -1,0 +1,36 @@
+.card-container {
+    opacity: 1;
+    transition: 500ms;
+    overflow: none;
+    background-color: blue;
+    .card {
+        width: 25vw;
+        height: 25vw;
+    }   
+
+}
+
+@media screen and (max-width: 1070px) {
+    .card-container {
+        .card {
+            .card-body {
+                .card-text {
+                    font-size: 13px;
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .card-container {
+        .card {
+            .card-body {
+                .card-text {
+                    font-size: 16px;
+                }
+            }
+        }   
+    }
+}
