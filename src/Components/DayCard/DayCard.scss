@@ -2,10 +2,11 @@
     opacity: 1;
     transition: 500ms;
     overflow: none;
-    background-color: blue;
+    color:blue;
+    background-color: azure;
     .card {
-        width: 25vw;
-        height: 25vw;
+        width: 30vw;
+        height: 30vw;
     }   
 
 }
@@ -13,6 +14,8 @@
 @media screen and (max-width: 1070px) {
     .card-container {
         .card {
+            width: 40vw;
+            height: 40vw;
             .card-body {
                 .card-text {
                     font-size: 13px;

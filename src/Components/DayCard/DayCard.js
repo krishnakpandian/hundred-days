@@ -1,9 +1,9 @@
 import React from 'react';
-import './dayCard.scss';
+import './DayCard.scss';
 import Card from 'react-bootstrap/Card';
 import Fade from 'react-reveal/Fade';
 
-const dayCard = (props) => {
+const DayCard = (props) => {
     return (
         <React.Fragment>
             <div class="card-container">
@@ -22,4 +22,4 @@ const dayCard = (props) => {
     );
 }
 
-export default dayCard;
+export default DayCard;

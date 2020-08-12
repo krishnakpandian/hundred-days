@@ -9,7 +9,19 @@
         {
             "date": "August 10, 2020",
             "challenge": "Get the Design of this Site Working",
-            "description": "Today I will be working with ReactJS, HTML, CSS, to get most of the starter material working for this challenge",
+            "description": "Today I will be working with ReactJS, HTML, CSS, to get most of the starter material working for this challenge.",
+            "link": "https://github.com/krishnakpandian/hundred-days/commit/505869cf9245ea260fc481e11ae0191d390b3709"
+        },
+        {
+            "date": "August 11, 2020",
+            "challenge": "Finishing the Website and Deployment",
+            "description": "This site is now live on Firebase and it should be visible to everyone now!",
+            "link": "https://hundreddaychallenge-fe11d.firebaseapp.com/"
+        },
+        {
+            "date": "August 12, 2020",
+            "challenge": "Finishing the Website and Deployment",
+            "description": "Again, today I will be working with ReactJS, HTML, CSS, to get most of the starter material working for this challenge and making this site live.",
             "link": ""
         }
     ]
