@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About renders should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`DayCard renders Correctly should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Footer renders should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;
+
+exports[`Header renders should render correctly in "debug" mode 1`] = `ShallowWrapper {}`;

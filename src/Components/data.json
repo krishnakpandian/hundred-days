@@ -20,8 +20,14 @@
         },
         {
             "date": "August 12, 2020",
-            "challenge": "Finishing the Website and Deployment",
-            "description": "Again, today I will be working with ReactJS, HTML, CSS, to get most of the starter material working for this challenge and making this site live.",
+            "challenge": "Unit Testing Our Website using Jest and Enzyme and more refining touches to the frontend",
+            "description": "By the end of this week, I want to have this site fully ready, today we clean up the cards a little more and learn how to unit test using Jest and Enzyme",
+            "link": ""
+        },
+        {
+            "date": "August 13, 2020",
+            "challenge": "",
+            "description": "",
             "link": ""
         }
     ]
