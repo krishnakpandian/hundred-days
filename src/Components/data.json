@@ -22,12 +22,24 @@
             "date": "August 12, 2020",
             "challenge": "Unit Testing Our Website using Jest and Enzyme and more refining touches to the frontend",
             "description": "By the end of this week, I want to have this site fully ready, today we clean up the cards a little more and learn how to unit test using Jest and Enzyme",
-            "link": ""
+            "link": "https://github.com/krishnakpandian/hundred-days/commit/30cbc7446ea8877f2cac0b1520ba87a7eb1de5b0"
         },
         {
             "date": "August 13, 2020",
+            "challenge": "Build Data Structures in Python P1",
+            "description": "Today I will be building all the data structures in python and create unit tests for all of these. This Will be split into multiple parts" ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/5cc70fcf358feeb76dc0b55fd7e0b7e0f16ac95c"
+        },
+        {
+            "date": "August 14, 2020",
             "challenge": "",
-            "description": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 15, 2020",
+            "challenge": "",
+            "description": "" ,
             "link": ""
         }
     ]
