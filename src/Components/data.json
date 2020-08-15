@@ -32,9 +32,9 @@
         },
         {
             "date": "August 14, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Build Data Structures in Python P2",
+            "description": "I finished implementing all the data structures in python and I will now start learning how to unit test properly with the unit test module." ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/a76bb82cff2ccb0cd15b5493facd305d6ac058c7"
         },
         {
             "date": "August 15, 2020",
