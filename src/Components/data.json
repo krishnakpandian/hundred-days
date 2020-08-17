@@ -38,6 +38,24 @@
         },
         {
             "date": "August 15, 2020",
+            "challenge": "Fail",
+            "description": "Got Sick :(" ,
+            "link": ""
+        },
+        {
+            "date": "August 16, 2020",
+            "challenge": "Update Personal Website and Keep track of Fails",
+            "description": "Today I will be updating my personal website and this site to contain my work. I will also be updating this site with a fail card since I didn't expect to fail so quickly." ,
+            "link": "https://github.com/krishnakpandian/personal/commit/65d24790e5c0b5cf94c1f0e22c70c715db3eed8d"
+        },
+        {
+            "date": "August 17, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 18, 2020",
             "challenge": "",
             "description": "" ,
             "link": ""

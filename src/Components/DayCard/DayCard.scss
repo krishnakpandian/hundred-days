@@ -1,12 +1,16 @@
 .card-container {
+    &.fail {
+        background-color: red;
+        color: white;
+    }
     opacity: 1;
     transition: 500ms;
     overflow: none;
     color:blue;
     background-color: azure;
     .card {
-        width: 30vw;
-        height: 30vw;
+        width: 23vw;
+        height: 35vh;
     }   
 
 }
