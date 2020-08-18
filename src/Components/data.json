@@ -50,9 +50,9 @@
         },
         {
             "date": "August 17, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Set Up Twitter Bot to keep track of Work P1",
+            "description": "I began setting up a twitter Bot that will be posting everyday to keep track of my progress throughout the challenge. My goal is for it to post everyday whether I was successful in completing the challenge on time." ,
+            "link": "https://github.com/krishnakpandian/hundredDaysTwitBot/commit/8e89a1e65115fa12942d80869649c392ab2d6264"
         },
         {
             "date": "August 18, 2020",
