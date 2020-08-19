@@ -56,6 +56,24 @@
         },
         {
             "date": "August 18, 2020",
+            "challenge": "Learn Microsoft Azure",
+            "description": "Today I went to a Cosmos DB conference to learn more about Azure so I decided to work on a basic REST API using Microsoft Azure. It is far from complete but I am excited to have it completed." ,
+            "link": "https://github.com/krishnakpandian/Azure_Example/commit/401d1aff160264c4946138c3beae7fa0e79d9920"
+        },
+        {
+            "date": "August 19, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 20, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 21, 2020",
             "challenge": "",
             "description": "" ,
             "link": ""
