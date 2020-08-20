@@ -62,9 +62,9 @@
         },
         {
             "date": "August 19, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Leetcode Practice Dynamic Programming",
+            "description": "I have some coding challenges in a couple days so I decided to review some dp problems that leetcode says occurs often." ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/b73e53422763985dea0c2f7b2d51159e47355b53"
         },
         {
             "date": "August 20, 2020",
