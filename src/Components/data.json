@@ -74,9 +74,9 @@
         },
         {
             "date": "August 21, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Learning how to use PDB",
+            "description": "So today I had a coding challenge and I decided to learn how to use PDB. PDB is the python debugger and I haven't gotten to use it much so I just used it on basic debugging of a uppercase all words in a string." ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/cafc45827eb00daf722386575a0ceccda384b877"
         }
     ]
 }
