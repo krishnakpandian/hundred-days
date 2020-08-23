@@ -77,6 +77,30 @@
             "challenge": "Learning how to use PDB",
             "description": "So today I had a coding challenge and I decided to learn how to use PDB. PDB is the python debugger and I haven't gotten to use it much so I just used it on basic debugging of a uppercase all words in a string." ,
             "link": "https://github.com/krishnakpandian/data_structures/commit/cafc45827eb00daf722386575a0ceccda384b877"
+        },
+        {
+            "date": "August 22, 2020",
+            "challenge": "Building Shell Scripts",
+            "description": "Today I decided to build some more automation for this challenge so I created a shell script to do some build, push, and deploy quickly." ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/e958c90c688a91885a68626cf478a262c5d7f942"
+        },
+        {
+            "date": "August 23, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 24, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 25, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
         }
     ]
 }
