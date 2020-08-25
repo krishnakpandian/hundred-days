@@ -92,9 +92,9 @@
         },
         {
             "date": "August 24, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Top C/C++ Interview Questions",
+            "description": "Finished the Rest of the top commonly asked questions in C/C++. I learned a lot about polymorshism and other object oriented programming and I really want to learn more cpp." ,
+            "link": "https://github.com/krishnakpandian/topCQuestions/commit/c1cf5e0de751bbb075771d53a986455523db4415"
         },
         {
             "date": "August 25, 2020",
