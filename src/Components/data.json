@@ -98,9 +98,9 @@
         },
         {
             "date": "August 25, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Learn a little bit about Flask",
+            "description": "Today I decided to start learning how to use Flask as a backend technology. I have a new project idea for Sudoku online which I will work on over the next few weeks." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/7f2f931de763854d3992a054abfb37b8323186ad"
         }
     ]
 }
