@@ -101,6 +101,12 @@
             "challenge": "Learn a little bit about Flask",
             "description": "Today I decided to start learning how to use Flask as a backend technology. I have a new project idea for Sudoku online which I will work on over the next few weeks." ,
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/7f2f931de763854d3992a054abfb37b8323186ad"
+        },
+        {
+            "date": "August 26, 2020",
+            "challenge": "Build Frontend for React Sudoku",
+            "description": "I've got the sudoku board to generate with the solution to generate and now I am working on getting it to render on the page while changing the state independently." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
         }
     ]
 }
