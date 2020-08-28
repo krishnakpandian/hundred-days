@@ -107,6 +107,41 @@
             "challenge": "Build Frontend for React Sudoku",
             "description": "I've got the sudoku board to generate with the solution to generate and now I am working on getting it to render on the page while changing the state independently." ,
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+        },
+        {
+            "date": "August 27, 2020",
+            "challenge": "Progress React Sudoku",
+            "description": "I've started working on setting state of each input individually and I have begun to realize that it is trickier than I thought." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/09c10b0326f5be68c16212ef25c94f487e5ad6a2"
+        },
+        {
+            "date": "August 28, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+        },
+        {
+            "date": "August 29, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 30, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "August 31, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+        },        {
+            "date": "September 1, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
         }
     ]
 }
