@@ -9,7 +9,7 @@ const DayCard = (props) => {
         <React.Fragment>
             <div class="card-container fail">
                 <Fade down delay={300} distance={"0.5em"}>
-                    <Card>
+                    <Card bg='warning'>
                         <Card.Body>
                             <Card.Title>Day: {props.index}</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">{props.data.challenge}</Card.Subtitle>

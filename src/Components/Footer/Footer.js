@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.scss';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 const Footer = () => {
     return(
         <React.Fragment>
