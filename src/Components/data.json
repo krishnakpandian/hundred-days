@@ -20,7 +20,7 @@
         },
         {
             "date": "August 12, 2020",
-            "challenge": "Unit Testing Our Website using Jest and Enzyme and more refining touches to the frontend",
+            "challenge": "Unit Testing Our Website using Jest and Enzyme",
             "description": "By the end of this week, I want to have this site fully ready, today we clean up the cards a little more and learn how to unit test using Jest and Enzyme",
             "link": "https://github.com/krishnakpandian/hundred-days/commit/30cbc7446ea8877f2cac0b1520ba87a7eb1de5b0"
         },
@@ -118,7 +118,7 @@
             "date": "August 28, 2020",
             "challenge": "Fixing Site some More",
             "description": "Today I realized, the day cards honestly look so disgusting and I really need to fix them. So we are going to make them look a lot prettier." ,
-            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+            "link": "https://github.com/krishnakpandian/hundred-days/commit/4d72b15663363738082442c1f8c39cfc47ae79ee"
         },
         {
             "date": "August 29, 2020",
@@ -136,12 +136,12 @@
             "date": "August 31, 2020",
             "challenge": "",
             "description": "" ,
-            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+            "link": ""
         },        {
             "date": "September 1, 2020",
             "challenge": "",
             "description": "" ,
-            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/d68349670a86da5f347577a64b3805f2bd9140f6"
+            "link": ""
         }
     ]
 }
