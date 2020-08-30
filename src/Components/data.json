@@ -122,9 +122,9 @@
         },
         {
             "date": "August 29, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "More Sudoku Design",
+            "description": "Started working on the design and implementing multi page applications with ReactJS." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/f72fc18cc7d1f42f9490b2d0364742efe15eed55"
         },
         {
             "date": "August 30, 2020",
