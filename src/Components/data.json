@@ -128,9 +128,9 @@
         },
         {
             "date": "August 30, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Vim Practice",
+            "description": "I have an interview tomorrow and it's going to be using Vim. I have realized vscode has spoiled me so I need some practice." ,
+            "link": "https://github.com/krishnakpandian/data_structures/commit/0c70bd0eaef544da5685dcf63b4dc62fdb0f59bd"
         },
         {
             "date": "August 31, 2020",
