@@ -137,8 +137,56 @@
             "challenge": "UseState",
             "description": "Today I finally learned how to use useState and simplify functions a lot more and remove states with useState." ,
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/9eeb5f0d1f6618e45d5d49c3e1ba932aa976584b"
-        },        {
+        },        
+        {
             "date": "September 1, 2020",
+            "challenge": "Use Sockets with Flask and React",
+            "description": "Today I continued working with Sudoku and I decided to read up some more about flask and implemented a chat system for our react app." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/272d5047c9f960fbe84ad77c16a121c2c0dd820d"
+        },
+        {
+            "date": "September 2, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 3, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 4, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 5, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },        {
+            "date": "September 6, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 7, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 8, 2020",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "September 9, 2020",
             "challenge": "",
             "description": "" ,
             "link": ""
