@@ -146,9 +146,9 @@
         },
         {
             "date": "September 2, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Learning Local Storage",
+            "description": "Decided to spend a day focused more around reading content rather than coding but I learned about local storage caching which I hope to implement." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/59b2281864317400d261290e46b166134cba0d09"
         },
         {
             "date": "September 3, 2020",
