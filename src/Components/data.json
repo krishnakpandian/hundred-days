@@ -158,9 +158,9 @@
         },
         {
             "date": "September 4, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Finished MongoDB Tutorial",
+            "description": "Got a working mongodb schema running and I learned a bit more about using express with Mongo. Definitely will be using this in the future." ,
+            "link": "https://github.com/krishnakpandian/mongoDBTutorial/commit/62edaaed9c295e3214b83331d9b132b9e8d5c1d3"
         },
         {
             "date": "September 5, 2020",
