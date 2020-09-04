@@ -152,9 +152,9 @@
         },
         {
             "date": "September 3, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Starting on MongoDB Tutorial",
+            "description": "Decided I wanted a little break from Sudoku so I decided to start up a mini mongoDB tutorial. Should be done by tomorrow!" ,
+            "link": "https://github.com/krishnakpandian/mongoDBTutorial/commit/973a4b30f814b64854616c20a78d6ca613c6cd1c"
         },
         {
             "date": "September 4, 2020",
