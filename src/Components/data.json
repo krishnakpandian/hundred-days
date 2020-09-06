@@ -164,9 +164,9 @@
         },
         {
             "date": "September 5, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Styling with SCSS",
+            "description": "Decided to implement the scss today and style things around the application so I can see changes a lot easier. Definitely wasn't feeling as motivated today. :/" ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/6dc3bfb8651e5231fae4ed15dae8ec520d152915"
         },        {
             "date": "September 6, 2020",
             "challenge": "",
