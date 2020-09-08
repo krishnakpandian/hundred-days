@@ -175,9 +175,9 @@
         },
         {
             "date": "September 7, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Using the map method on 2d Array",
+            "description": "Today I got the board looking a lot better in a 9x9 grid and right now I just need to fix the pieces to have the game ready and functional." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/8daf99faf9311fdf5474cc5539349802825813c9"
         },
         {
             "date": "September 8, 2020",
