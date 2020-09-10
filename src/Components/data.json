@@ -187,9 +187,9 @@
         },
         {
             "date": "September 9, 2020",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "challenge": "Firebase Storing Messages",
+            "description": "Today I got firebase working and set it up with my flask app so we can hopefully store message conversations within our database. We got the post request working." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/3a0d18210262516dce2a58c3740d8b066abc943b"
         }
     ]
 }
