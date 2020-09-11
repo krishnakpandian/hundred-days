@@ -190,6 +190,66 @@
             "challenge": "Firebase Storing Messages",
             "description": "Today I got firebase working and set it up with my flask app so we can hopefully store message conversations within our database. We got the post request working." ,
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/3a0d18210262516dce2a58c3740d8b066abc943b"
+        },
+        {
+            "date": "September 10, 2020",
+            "challenge": "Firebase Unit Tests for Flask",
+            "description": "I worked on building unit tests for each endpoint and developed unit tests to test each of the endpoints of our REST API." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/3515b7f227e4d97bbe3eb92154fafe5f0f74e9a1"
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
+        },
+        {
+            "date": "",
+            "challenge": "",
+            "description": "" ,
+            "link": ""
         }
     ]
 }
