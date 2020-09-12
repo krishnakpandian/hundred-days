@@ -198,10 +198,10 @@
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/3515b7f227e4d97bbe3eb92154fafe5f0f74e9a1"
         },
         {
-            "date": "",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "date": "September 11, 2020",
+            "challenge": "Fixing the Board",
+            "description": "Finally decided to fix the sudoku board and got that working today. Had the styling and the binding modified to vary depending on this it was referencing." ,
+            "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/fd54804b97c0ad6252128d1c4825b66a6836481e"
         },
         {
             "date": "",
