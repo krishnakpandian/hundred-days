@@ -204,10 +204,10 @@
             "link": "https://github.com/krishnakpandian/Sudoku_Online/commit/fd54804b97c0ad6252128d1c4825b66a6836481e"
         },
         {
-            "date": "",
-            "challenge": "",
-            "description": "" ,
-            "link": ""
+            "date": "September 12, 2020",
+            "challenge": "Structs and Padding",
+            "description": "I have been wondering how the size is calculated for structs recently and so I decided to make some tests to practice learning padding." ,
+            "link": "https://github.com/krishnakpandian/topCQuestions/commit/0ed5da79b56704611be173ec03d0ca2ca0978cc5"
         },
         {
             "date": "",
